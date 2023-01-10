@@ -32,7 +32,7 @@
   "dependencies": {
     "argparse": "^1.0.7",
     "babel-polyfill": "~6.16.0",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "extend": "^3.0.0",
     "google-auth-library": "^0.9.8",
     "googleapis": "^14.2.0",
